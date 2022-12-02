@@ -1,5 +1,4 @@
 # Welcome to my Github repository
-### Currently learning Python at Sena, Colombia
 - Connect with me on [Twitter](https://www.twitter.com/timwelchamann)
 
 
