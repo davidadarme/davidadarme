@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidadarme.
+# Welcome to my Github repo
 
 <!---
 davidadarme/davidadarme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
