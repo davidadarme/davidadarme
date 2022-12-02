@@ -1,6 +1,12 @@
 # Welcome to my Github repository
 ### Currently learning Python at Sena, Colombia
 - Connect with me on [Twitter](https://www.twitter.com/timwelchamann)
+
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.29
+
+
+https://github.com/davidadarme/davidadarme#statistics
 <!---
 
 davidadarme/davidadarme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
