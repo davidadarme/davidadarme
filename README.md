@@ -1,5 +1,5 @@
 # Welcome to my Github repository
-- Connect with me on [Twitter](https://www.twitter.com/timwelchamann)
+- Connect with me on [Twitter](https://www.twitter.com/timwelchmann)
 
 
 
