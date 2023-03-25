@@ -36,6 +36,8 @@ Third step
 	2. Type --- (hyphen) to create horizontal lines
 	3. Type | (slash) plus space to create tables in markdown format
 
+As you can see, here are some images of jow may look like 
+
 Then, let's talk about open source benefits
 
 # Open source benefits
@@ -49,11 +51,7 @@ The open-source nature of Obsidian provides several benefits to the community, i
 4. Innovation: The open-source community can experiment with new ideas and features that might not be possible with proprietary software.
 5. Support: The community can provide support to users of Obsidian, including documentation, troubleshooting, and user-created plugins and themes.
 
-
-
 Do you have any questions?
-
-
 
 ---
 
