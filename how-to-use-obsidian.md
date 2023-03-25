@@ -35,4 +35,18 @@ Third step
 	2. Type --- (hyphen) to create horizontal lines
 	3. Type | (slash) plus space to create tables in markdown format
 
+# Open source benefits
+Obsidian is an open-source software, meaning that its source code is available to the public, and anyone can contribute to its development.
+
+The open-source nature of Obsidian provides several benefits to the community, including:
+
+1. Transparency: The code for Obsidian is publicly available, which means that anyone can inspect it to ensure it is secure and free from any vulnerabilities or backdoors.
+2. Collaboration: The open-source community can collaborate on the development of Obsidian, which can lead to faster bug fixes, new features, and improvements.
+3. Customization: With access to the source code, users can customize the software to suit their specific needs, which is particularly useful for those with unique workflows or specific use cases.
+4. Innovation: The open-source community can experiment with new ideas and features that might not be possible with proprietary software.
+5. Support: The community can provide support to users of Obsidian, including documentation, troubleshooting, and user-created plugins and themes.
+
+
+
+---
 https://cloud.ibm.com/apidocs/text-to-speech
