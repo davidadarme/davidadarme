@@ -14,11 +14,12 @@ Obsidian is a note taking and knowledge tool that uses markdown syntax as plain 
 I will provide you a brief guide on how to download and start using Obsidian, as well as some of its benefits and contributions from the open-source community.
 
 Well, our first step is to download and Install it
-**this will appear when you install it**
+**So please everyone install it in your pc**
 1. Go to obsidian.md (*obsidian dot em di*)
 2. Click the download button below or select the OS system you have
 3. Execute the executable file and just follow the installation instructions
 
+**this will appear when you install it**
 Second step
 1. Open Obsidian
 2. Choose or create a vault if you've one / or sign in If you already 've an Obsidian account.
