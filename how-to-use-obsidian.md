@@ -14,6 +14,7 @@ Obsidian is a note taking and knowledge tool that uses markdown syntax as plain 
 I will provide you a brief guide on how to download and start using Obsidian, as well as some of its benefits and contributions from the open-source community.
 
 Well, our first step is to download and Install it
+**this will appear when you install it**
 1. Go to obsidian.md (*obsidian dot em di*)
 2. Click the download button below or select the OS system you have
 3. Execute the executable file and just follow the installation instructions
@@ -35,6 +36,8 @@ Third step
 	2. Type --- (hyphen) to create horizontal lines
 	3. Type | (slash) plus space to create tables in markdown format
 
+Then, let's talk about open source benefits
+
 # Open source benefits
 Obsidian is an open-source software, meaning that its source code is available to the public, and anyone can contribute to its development.
 
@@ -46,7 +49,6 @@ The open-source nature of Obsidian provides several benefits to the community, i
 4. Innovation: The open-source community can experiment with new ideas and features that might not be possible with proprietary software.
 5. Support: The community can provide support to users of Obsidian, including documentation, troubleshooting, and user-created plugins and themes.
 
-
-
 ---
+
 https://cloud.ibm.com/apidocs/text-to-speech
